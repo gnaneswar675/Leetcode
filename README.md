@@ -8,6 +8,7 @@
 | [0204-count-primes](https://github.com/gnaneswar675/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/gnaneswar675/Leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/gnaneswar675/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/gnaneswar675/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/gnaneswar675/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/gnaneswar675/Leetcode/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/gnaneswar675/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Linked List
 |  |
 | ------- |
@@ -38,6 +40,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/gnaneswar675/Leetcode/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/gnaneswar675/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
