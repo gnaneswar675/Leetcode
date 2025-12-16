@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/gnaneswar675/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/gnaneswar675/Leetcode/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
