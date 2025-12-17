@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/gnaneswar675/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/gnaneswar675/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/gnaneswar675/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/gnaneswar675/Leetcode/tree/master/0204-count-primes) |
@@ -62,6 +63,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/gnaneswar675/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/gnaneswar675/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/gnaneswar675/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
@@ -72,4 +74,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/gnaneswar675/Leetcode/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/gnaneswar675/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
