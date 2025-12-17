@@ -24,6 +24,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/gnaneswar675/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/gnaneswar675/Leetcode/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/gnaneswar675/Leetcode/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gnaneswar675/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Linked List
 |  |
@@ -36,6 +37,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/gnaneswar675/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/gnaneswar675/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/gnaneswar675/Leetcode/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -62,4 +64,12 @@
 | ------- |
 | [0136-single-number](https://github.com/gnaneswar675/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/gnaneswar675/Leetcode/tree/master/0191-number-of-1-bits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/gnaneswar675/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/gnaneswar675/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
