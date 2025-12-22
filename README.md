@@ -22,6 +22,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/gnaneswar675/Leetcode/tree/master/0038-count-and-say) |
 | [0387-first-unique-character-in-a-string](https://github.com/gnaneswar675/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/gnaneswar675/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Math
