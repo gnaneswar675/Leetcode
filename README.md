@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/gnaneswar675/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0078-subsets](https://github.com/gnaneswar675/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/gnaneswar675/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/gnaneswar675/Leetcode/tree/master/0189-rotate-array) |
@@ -68,6 +69,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/gnaneswar675/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0191-number-of-1-bits](https://github.com/gnaneswar675/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -157,4 +159,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/gnaneswar675/Leetcode/tree/master/0155-min-stack) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/gnaneswar675/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
