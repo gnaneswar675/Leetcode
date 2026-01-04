@@ -103,6 +103,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/gnaneswar675/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/gnaneswar675/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/gnaneswar675/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -153,6 +156,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/gnaneswar675/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/gnaneswar675/Leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/gnaneswar675/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0897-increasing-order-search-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -165,4 +169,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gnaneswar675/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0897-increasing-order-search-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
