@@ -22,13 +22,11 @@ class Solution {
          temp.right=new TreeNode(root.val);
          temp=temp.right;
          inorder(root.right);
-
     }
     public TreeNode increasingBST(TreeNode root) {
        TreeNode demo=new TreeNode(10);
        temp=demo;
        inorder(root);
        return demo.right;
-
     }
 }
