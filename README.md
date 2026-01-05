@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gnaneswar675/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/gnaneswar675/Leetcode/tree/master/0027-remove-element) |
+| [0046-permutations](https://github.com/gnaneswar675/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/gnaneswar675/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/gnaneswar675/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/gnaneswar675/Leetcode/tree/master/0189-rotate-array) |
@@ -92,6 +93,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/gnaneswar675/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/gnaneswar675/Leetcode/tree/master/0078-subsets) |
 ## Tree
 |  |
