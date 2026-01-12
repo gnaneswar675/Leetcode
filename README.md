@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/gnaneswar675/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/gnaneswar675/Leetcode/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/gnaneswar675/Leetcode/tree/master/0046-permutations) |
+| [0066-plus-one](https://github.com/gnaneswar675/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/gnaneswar675/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/gnaneswar675/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/gnaneswar675/Leetcode/tree/master/0136-single-number) |
@@ -37,6 +38,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/gnaneswar675/Leetcode/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/gnaneswar675/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/gnaneswar675/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/gnaneswar675/Leetcode/tree/master/0204-count-primes) |
