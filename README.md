@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/gnaneswar675/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/gnaneswar675/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/gnaneswar675/Leetcode/tree/master/0078-subsets) |
+| [0128-longest-consecutive-sequence](https://github.com/gnaneswar675/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/gnaneswar675/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/gnaneswar675/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/gnaneswar675/Leetcode/tree/master/0204-count-primes) |
@@ -69,6 +70,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/gnaneswar675/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/gnaneswar675/Leetcode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/gnaneswar675/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/gnaneswar675/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -194,6 +196,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/gnaneswar675/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/gnaneswar675/Leetcode/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
