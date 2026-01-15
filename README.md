@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/gnaneswar675/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/gnaneswar675/Leetcode/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/gnaneswar675/Leetcode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/gnaneswar675/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/gnaneswar675/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/gnaneswar675/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/gnaneswar675/Leetcode/tree/master/0078-subsets) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/gnaneswar675/Leetcode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/gnaneswar675/Leetcode/tree/master/0049-group-anagrams) |
 | [0171-excel-sheet-column-number](https://github.com/gnaneswar675/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/gnaneswar675/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/gnaneswar675/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -70,6 +72,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/gnaneswar675/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/gnaneswar675/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/gnaneswar675/Leetcode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/gnaneswar675/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -78,6 +81,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/gnaneswar675/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/gnaneswar675/Leetcode/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
