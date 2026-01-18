@@ -16,6 +16,7 @@
 | [0189-rotate-array](https://github.com/gnaneswar675/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/gnaneswar675/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/gnaneswar675/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/gnaneswar675/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/gnaneswar675/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/gnaneswar675/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/gnaneswar675/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -77,6 +78,7 @@
 | [0049-group-anagrams](https://github.com/gnaneswar675/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/gnaneswar675/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/gnaneswar675/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/gnaneswar675/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/gnaneswar675/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/gnaneswar675/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/gnaneswar675/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -218,4 +220,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/gnaneswar675/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/gnaneswar675/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
