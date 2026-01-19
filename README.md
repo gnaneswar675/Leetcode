@@ -236,6 +236,7 @@
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/gnaneswar675/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/gnaneswar675/Leetcode/tree/master/0841-keys-and-rooms) |
+| [1791-find-center-of-star-graph](https://github.com/gnaneswar675/Leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gnaneswar675/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
