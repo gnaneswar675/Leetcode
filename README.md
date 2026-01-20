@@ -45,6 +45,7 @@
 | [0171-excel-sheet-column-number](https://github.com/gnaneswar675/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/gnaneswar675/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/gnaneswar675/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1143-longest-common-subsequence](https://github.com/gnaneswar675/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/gnaneswar675/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## Math
 |  |
@@ -116,6 +117,7 @@
 | [0070-climbing-stairs](https://github.com/gnaneswar675/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/gnaneswar675/Leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/gnaneswar675/Leetcode/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/gnaneswar675/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
