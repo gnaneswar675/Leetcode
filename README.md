@@ -50,6 +50,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/gnaneswar675/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/gnaneswar675/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/gnaneswar675/Leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/gnaneswar675/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/gnaneswar675/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/gnaneswar675/Leetcode/tree/master/0204-count-primes) |
@@ -111,10 +112,12 @@
 | [0062-unique-paths](https://github.com/gnaneswar675/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/gnaneswar675/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/gnaneswar675/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/gnaneswar675/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/gnaneswar675/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/gnaneswar675/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/gnaneswar675/Leetcode/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
