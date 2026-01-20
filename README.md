@@ -23,6 +23,7 @@
 | [0496-next-greater-element-i](https://github.com/gnaneswar675/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/gnaneswar675/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/gnaneswar675/Leetcode/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/gnaneswar675/Leetcode/tree/master/0704-binary-search) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gnaneswar675/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gnaneswar675/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -215,6 +216,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gnaneswar675/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/gnaneswar675/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0704-binary-search](https://github.com/gnaneswar675/Leetcode/tree/master/0704-binary-search) |
 ## Binary Search Tree
 |  |
 | ------- |
