@@ -52,6 +52,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/gnaneswar675/Leetcode/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/gnaneswar675/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/gnaneswar675/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/gnaneswar675/Leetcode/tree/master/0070-climbing-stairs) |
