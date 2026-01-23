@@ -46,6 +46,7 @@
 | [0049-group-anagrams](https://github.com/gnaneswar675/Leetcode/tree/master/0049-group-anagrams) |
 | [0171-excel-sheet-column-number](https://github.com/gnaneswar675/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/gnaneswar675/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/gnaneswar675/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/gnaneswar675/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1143-longest-common-subsequence](https://github.com/gnaneswar675/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/gnaneswar675/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -290,4 +291,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/gnaneswar675/Leetcode/tree/master/0062-unique-paths) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/gnaneswar675/Leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
