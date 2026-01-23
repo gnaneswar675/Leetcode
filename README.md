@@ -50,6 +50,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/gnaneswar675/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1143-longest-common-subsequence](https://github.com/gnaneswar675/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/gnaneswar675/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [3407-substring-matching-pattern](https://github.com/gnaneswar675/Leetcode/tree/master/3407-substring-matching-pattern) |
 ## Math
 |  |
 | ------- |
@@ -295,4 +296,5 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/gnaneswar675/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [3407-substring-matching-pattern](https://github.com/gnaneswar675/Leetcode/tree/master/3407-substring-matching-pattern) |
 <!---LeetCode Topics End-->
