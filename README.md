@@ -39,6 +39,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gnaneswar675/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/gnaneswar675/Leetcode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/gnaneswar675/Leetcode/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/gnaneswar675/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gnaneswar675/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/gnaneswar675/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/gnaneswar675/Leetcode/tree/master/0344-reverse-string) |
@@ -50,6 +51,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/gnaneswar675/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/gnaneswar675/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/gnaneswar675/Leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/gnaneswar675/Leetcode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/gnaneswar675/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/gnaneswar675/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/gnaneswar675/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
