@@ -29,6 +29,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/gnaneswar675/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/gnaneswar675/Leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/gnaneswar675/Leetcode/tree/master/0704-binary-search) |
+| [1652-defuse-the-bomb](https://github.com/gnaneswar675/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gnaneswar675/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gnaneswar675/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -271,6 +272,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/gnaneswar675/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/gnaneswar675/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1652-defuse-the-bomb](https://github.com/gnaneswar675/Leetcode/tree/master/1652-defuse-the-bomb) |
 ## Graph Theory
 |  |
 | ------- |
