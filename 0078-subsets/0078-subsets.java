@@ -1,20 +1,19 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
-       List<List<Integer>> res=new ArrayList<>();
-       List<Integer> sub=new ArrayList<>();
-       createsub(sub,res,0,nums);
-       return res;
+        List<List<Integer>> res=new ArrayList<>();
+        List <Integer> subset=new ArrayList<>();
+        backtrack(0,res,subset,nums);
+        return res;
     }
-    void createsub(List<Integer> sub,List<List<Integer>> res,int index,int nums[])
+    public void backtrack(int src,List<List<Integer>> res,List<Integer> subset,int[] arr)
     {
-        if(index==nums.length)
-        {
-            res.add(new ArrayList<>(sub));
+        if(src==arr.length){
+            res.add(new ArrayList<>(subset));
             return;
         }
-        sub.add(nums[index]);
-        createsub(sub,res,index+1,nums);
-        sub.remove(sub.size()-1);
-        createsub(sub,res,index+1,nums);
-    }    
+        subset.add(arr[src]);
+        backtrack(src+1,res,subset,arr);
+        subset.remove(subset.size()-1);
+        backtrack(src+1,res,subset,arr);
+    }
 }
