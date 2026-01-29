@@ -1,20 +1,33 @@
-class Solution {
-    public void dfs(int[][]m ,int []arr,int i){
-        for(int j=0;j<m.length;j++){
-            if(m[i][j]==1&&arr[j]==0){
-                arr[j]=1;
-                dfs(m,arr,j);
+class Solution {   
+    public int findCircleNum(int[][] mat) {
+       ArrayList<ArrayList<Integer>> list=new ArrayList<>();
+       for(int i=0;i<mat.length;i++){
+        list.add(new ArrayList<>());
+       }
+       for(int i=0;i<mat.length;i++){
+        for(int j=0;j<mat[0].length;j++){
+            if(mat[i][j]==1 &&i!=j){
+                list.get(i).add(j);
+                list.get(j).add(i);
             }
         }
+       }
+       int vis[]=new int[mat.length];
+       int res=0;
+       for(int i=0;i<mat.length;i++){
+        if(vis[i]==0){
+            dfs(vis,list,i);
+            res++;
+        }
+       }
+       return res;
     }
-    public int findCircleNum(int[][] mat) {
-        int arr[]=new int[mat.length];
-        int res=0;
-        for(int i=0;i<arr.length;i++){
-            if(arr[i]==0){
-                dfs(mat,arr,i);
-                res++;
+    public void dfs(int[] vis,ArrayList<ArrayList<Integer>> list,int src){
+        vis[src]=1;
+        for(int node:list.get(src)){
+            if(vis[node]==0){
+                dfs(vis,list,node);
             }
-        }return res;
+        }
     }
 }
