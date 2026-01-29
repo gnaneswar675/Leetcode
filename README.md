@@ -12,6 +12,7 @@
 | [0063-unique-paths-ii](https://github.com/gnaneswar675/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/gnaneswar675/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/gnaneswar675/Leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/gnaneswar675/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gnaneswar675/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/gnaneswar675/Leetcode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/gnaneswar675/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -106,6 +107,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gnaneswar675/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/gnaneswar675/Leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/gnaneswar675/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/gnaneswar675/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/gnaneswar675/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/gnaneswar675/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -278,6 +280,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/gnaneswar675/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/gnaneswar675/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/gnaneswar675/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gnaneswar675/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/gnaneswar675/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/gnaneswar675/Leetcode/tree/master/0463-island-perimeter) |
