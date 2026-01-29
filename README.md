@@ -34,6 +34,7 @@
 | [0695-max-area-of-island](https://github.com/gnaneswar675/Leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/gnaneswar675/Leetcode/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/gnaneswar675/Leetcode/tree/master/0860-lemonade-change) |
+| [0994-rotting-oranges](https://github.com/gnaneswar675/Leetcode/tree/master/0994-rotting-oranges) |
 | [1652-defuse-the-bomb](https://github.com/gnaneswar675/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gnaneswar675/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gnaneswar675/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -205,6 +206,7 @@
 | [0765-couples-holding-hands](https://github.com/gnaneswar675/Leetcode/tree/master/0765-couples-holding-hands) |
 | [0797-all-paths-from-source-to-target](https://github.com/gnaneswar675/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/gnaneswar675/Leetcode/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/gnaneswar675/Leetcode/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gnaneswar675/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -285,6 +287,7 @@
 | [0200-number-of-islands](https://github.com/gnaneswar675/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/gnaneswar675/Leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/gnaneswar675/Leetcode/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/gnaneswar675/Leetcode/tree/master/0994-rotting-oranges) |
 ## Sliding Window
 |  |
 | ------- |
