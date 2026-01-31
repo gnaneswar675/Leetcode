@@ -13,7 +13,8 @@
  *     }
  * }
  */
-class Solution {List <Integer>res=new ArrayList<>();
+class Solution {
+    List <Integer>res=new ArrayList<>();//GLobal declaration cheyyali !!!!!
 
     public List<Integer> postorderTraversal(TreeNode root) {
         
