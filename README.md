@@ -9,6 +9,7 @@
 | [0039-combination-sum](https://github.com/gnaneswar675/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/gnaneswar675/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/gnaneswar675/Leetcode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/gnaneswar675/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/gnaneswar675/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/gnaneswar675/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/gnaneswar675/Leetcode/tree/master/0066-plus-one) |
@@ -143,6 +144,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/gnaneswar675/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/gnaneswar675/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/gnaneswar675/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/gnaneswar675/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -330,6 +332,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/gnaneswar675/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/gnaneswar675/Leetcode/tree/master/0455-assign-cookies) |
 | [0765-couples-holding-hands](https://github.com/gnaneswar675/Leetcode/tree/master/0765-couples-holding-hands) |
 | [0860-lemonade-change](https://github.com/gnaneswar675/Leetcode/tree/master/0860-lemonade-change) |
