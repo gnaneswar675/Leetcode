@@ -187,6 +187,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/gnaneswar675/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/gnaneswar675/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/gnaneswar675/Leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/gnaneswar675/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/gnaneswar675/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -214,6 +215,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/gnaneswar675/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/gnaneswar675/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/gnaneswar675/Leetcode/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/gnaneswar675/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gnaneswar675/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -272,6 +274,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/gnaneswar675/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/gnaneswar675/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/gnaneswar675/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/gnaneswar675/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gnaneswar675/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -325,6 +328,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/gnaneswar675/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gnaneswar675/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
