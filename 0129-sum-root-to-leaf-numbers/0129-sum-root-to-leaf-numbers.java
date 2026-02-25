@@ -27,7 +27,8 @@ class Solution {
         if(root.right==null && root.left==null){
             res+=num;
         }
-        traverse(root.left,num);
+       
         traverse(root.right,num);
+         traverse(root.left,num);
     }
 }
