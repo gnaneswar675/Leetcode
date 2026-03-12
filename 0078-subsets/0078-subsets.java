@@ -4,10 +4,10 @@ class Solution {
         List <Integer> subset=new ArrayList<>();
         backtrack(0,res,subset,nums);
         return res;
-    }
+    } 
     public void backtrack(int src,List<List<Integer>> res,List<Integer> subset,int[] arr)
     {
-        if(src==arr.length){
+        if (src==arr.length){
             res.add(new ArrayList<>(subset));
             return;
         }
