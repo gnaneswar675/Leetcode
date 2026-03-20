@@ -36,6 +36,7 @@
 | [0518-coin-change-ii](https://github.com/gnaneswar675/Leetcode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/gnaneswar675/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/gnaneswar675/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/gnaneswar675/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0695-max-area-of-island](https://github.com/gnaneswar675/Leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/gnaneswar675/Leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/gnaneswar675/Leetcode/tree/master/0733-flood-fill) |
@@ -168,6 +169,7 @@
 | [0509-fibonacci-number](https://github.com/gnaneswar675/Leetcode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/gnaneswar675/Leetcode/tree/master/0518-coin-change-ii) |
 | [0688-knight-probability-in-chessboard](https://github.com/gnaneswar675/Leetcode/tree/master/0688-knight-probability-in-chessboard) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/gnaneswar675/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1143-longest-common-subsequence](https://github.com/gnaneswar675/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
@@ -390,6 +392,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/gnaneswar675/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/gnaneswar675/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/gnaneswar675/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gnaneswar675/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Matrix
@@ -413,6 +416,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/gnaneswar675/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/gnaneswar675/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/gnaneswar675/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/gnaneswar675/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1652-defuse-the-bomb](https://github.com/gnaneswar675/Leetcode/tree/master/1652-defuse-the-bomb) |
 ## Graph Theory
 |  |
