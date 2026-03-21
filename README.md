@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/gnaneswar675/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/gnaneswar675/Leetcode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/gnaneswar675/Leetcode/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/gnaneswar675/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/gnaneswar675/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/gnaneswar675/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/gnaneswar675/Leetcode/tree/master/0053-maximum-subarray) |
@@ -163,6 +164,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/gnaneswar675/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/gnaneswar675/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/gnaneswar675/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/gnaneswar675/Leetcode/tree/master/0062-unique-paths) |
@@ -446,6 +448,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/gnaneswar675/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/gnaneswar675/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/gnaneswar675/Leetcode/tree/master/0455-assign-cookies) |
 | [0765-couples-holding-hands](https://github.com/gnaneswar675/Leetcode/tree/master/0765-couples-holding-hands) |
