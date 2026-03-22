@@ -43,6 +43,7 @@
 | [0695-max-area-of-island](https://github.com/gnaneswar675/Leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/gnaneswar675/Leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/gnaneswar675/Leetcode/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/gnaneswar675/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/gnaneswar675/Leetcode/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/gnaneswar675/Leetcode/tree/master/0994-rotting-oranges) |
 | [1652-defuse-the-bomb](https://github.com/gnaneswar675/Leetcode/tree/master/1652-defuse-the-bomb) |
@@ -178,6 +179,7 @@
 | [0518-coin-change-ii](https://github.com/gnaneswar675/Leetcode/tree/master/0518-coin-change-ii) |
 | [0688-knight-probability-in-chessboard](https://github.com/gnaneswar675/Leetcode/tree/master/0688-knight-probability-in-chessboard) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/gnaneswar675/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0746-min-cost-climbing-stairs](https://github.com/gnaneswar675/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/gnaneswar675/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
