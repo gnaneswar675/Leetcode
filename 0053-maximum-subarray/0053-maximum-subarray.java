@@ -5,6 +5,7 @@ class Solution {
         {
             temp=Math.max(nums[i],nums[i]+temp);
             res=Math.max(res,temp);
-        }return res;
+        }
+        return res;
     }
 }
