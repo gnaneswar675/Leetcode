@@ -35,6 +35,7 @@
 | [0219-contains-duplicate-ii](https://github.com/gnaneswar675/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/gnaneswar675/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/gnaneswar675/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/gnaneswar675/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/gnaneswar675/Leetcode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/gnaneswar675/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/gnaneswar675/Leetcode/tree/master/0455-assign-cookies) |
@@ -161,6 +162,7 @@
 | [0053-maximum-subarray](https://github.com/gnaneswar675/Leetcode/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/gnaneswar675/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gnaneswar675/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0307-range-sum-query-mutable](https://github.com/gnaneswar675/Leetcode/tree/master/0307-range-sum-query-mutable) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -381,6 +383,7 @@
 | [0155-min-stack](https://github.com/gnaneswar675/Leetcode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/gnaneswar675/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/gnaneswar675/Leetcode/tree/master/0307-range-sum-query-mutable) |
 ## Binary Search
 |  |
 | ------- |
@@ -490,4 +493,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/gnaneswar675/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/gnaneswar675/Leetcode/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/gnaneswar675/Leetcode/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
