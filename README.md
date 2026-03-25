@@ -18,6 +18,7 @@
 | [0073-set-matrix-zeroes](https://github.com/gnaneswar675/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gnaneswar675/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/gnaneswar675/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/gnaneswar675/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/gnaneswar675/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/gnaneswar675/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gnaneswar675/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -78,6 +79,7 @@
 | [0008-string-to-integer-atoi](https://github.com/gnaneswar675/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/gnaneswar675/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/gnaneswar675/Leetcode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/gnaneswar675/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/gnaneswar675/Leetcode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/gnaneswar675/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -208,6 +210,7 @@
 | [0039-combination-sum](https://github.com/gnaneswar675/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/gnaneswar675/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/gnaneswar675/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/gnaneswar675/Leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/gnaneswar675/Leetcode/tree/master/0113-path-sum-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/gnaneswar675/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gnaneswar675/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -251,6 +254,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/gnaneswar675/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/gnaneswar675/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0099-recover-binary-search-tree) |
@@ -434,6 +438,7 @@
 | [0064-minimum-path-sum](https://github.com/gnaneswar675/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/gnaneswar675/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gnaneswar675/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/gnaneswar675/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/gnaneswar675/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/gnaneswar675/Leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/gnaneswar675/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
