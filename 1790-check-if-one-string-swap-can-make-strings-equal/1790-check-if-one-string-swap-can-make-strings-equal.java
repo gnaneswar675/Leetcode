@@ -1,28 +1,24 @@
-public class Solution {
+class Solution {
     public boolean areAlmostEqual(String s1, String s2) {
-        if (s1.equals(s2)) {
+        if(s1.length()!=s2.length()){
+            return false;
+        }
+        if(s1.equals(s2)){
             return true;
         }
-        if (s1.length() != s2.length()) {
-            return false;
-        }
-
-        int diffCount = 0;
-        int[] diffIndexes = new int[2];
-
-        for (int i = 0; i < s1.length(); i++) {
-            if (s1.charAt(i) != s2.charAt(i)) {
-                if (diffCount == 2) {
+        int first=-1,second=-1;
+        for(int i=0;i<s1.length();i++){
+            if(s1.charAt(i)!=s2.charAt(i)){
+                if(first==-1){
+                    first=i;
+                }else if(second==-1){
+                    second=i;
+                }else{
                     return false;
                 }
-                diffIndexes[diffCount++] = i;
             }
         }
+        return second!=-1 && s1.charAt(first)==s2.charAt(second) && s1.charAt(second)==s2.charAt(first);
 
-        if (diffCount != 2) {
-            return false;
-        }
-
-        return s1.charAt(diffIndexes[0]) == s2.charAt(diffIndexes[1]) && s1.charAt(diffIndexes[1]) == s2.charAt(diffIndexes[0]);
     }
 }
