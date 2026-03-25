@@ -3,8 +3,8 @@ class Solution {
         int c=0;
         while(n!=0)
         {
-            n=n&(n-1);
-            c++;
+            c=c+(n&1);
+            n=n>>1;
         }
         return c;
     }
