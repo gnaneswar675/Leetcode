@@ -169,6 +169,7 @@
 | [0078-subsets](https://github.com/gnaneswar675/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/gnaneswar675/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/gnaneswar675/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/gnaneswar675/Leetcode/tree/master/0338-counting-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -186,6 +187,7 @@
 | [0198-house-robber](https://github.com/gnaneswar675/Leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/gnaneswar675/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/gnaneswar675/Leetcode/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/gnaneswar675/Leetcode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/gnaneswar675/Leetcode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/gnaneswar675/Leetcode/tree/master/0518-coin-change-ii) |
 | [0688-knight-probability-in-chessboard](https://github.com/gnaneswar675/Leetcode/tree/master/0688-knight-probability-in-chessboard) |
