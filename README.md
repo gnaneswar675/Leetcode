@@ -91,6 +91,7 @@
 | [1143-longest-common-subsequence](https://github.com/gnaneswar675/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gnaneswar675/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/gnaneswar675/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/gnaneswar675/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/gnaneswar675/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [3407-substring-matching-pattern](https://github.com/gnaneswar675/Leetcode/tree/master/3407-substring-matching-pattern) |
 ## Math
@@ -148,6 +149,7 @@
 | [0496-next-greater-element-i](https://github.com/gnaneswar675/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/gnaneswar675/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/gnaneswar675/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/gnaneswar675/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Sorting
 |  |
@@ -374,6 +376,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/gnaneswar675/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/gnaneswar675/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/gnaneswar675/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Stack
 |  |
 | ------- |
