@@ -95,6 +95,7 @@
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/gnaneswar675/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/gnaneswar675/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [3407-substring-matching-pattern](https://github.com/gnaneswar675/Leetcode/tree/master/3407-substring-matching-pattern) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/gnaneswar675/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Math
 |  |
 | ------- |
@@ -487,6 +488,7 @@
 | [0455-assign-cookies](https://github.com/gnaneswar675/Leetcode/tree/master/0455-assign-cookies) |
 | [0765-couples-holding-hands](https://github.com/gnaneswar675/Leetcode/tree/master/0765-couples-holding-hands) |
 | [0860-lemonade-change](https://github.com/gnaneswar675/Leetcode/tree/master/0860-lemonade-change) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/gnaneswar675/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Combinatorics
 |  |
 | ------- |
@@ -496,6 +498,7 @@
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/gnaneswar675/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [3407-substring-matching-pattern](https://github.com/gnaneswar675/Leetcode/tree/master/3407-substring-matching-pattern) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/gnaneswar675/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Trie
 |  |
 | ------- |
