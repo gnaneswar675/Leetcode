@@ -60,6 +60,7 @@
 | [1980-find-unique-binary-string](https://github.com/gnaneswar675/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gnaneswar675/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2751-robot-collisions](https://github.com/gnaneswar675/Leetcode/tree/master/2751-robot-collisions) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gnaneswar675/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Two Pointers
 |  |
 | ------- |
@@ -205,6 +206,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/gnaneswar675/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0746-min-cost-climbing-stairs](https://github.com/gnaneswar675/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/gnaneswar675/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gnaneswar675/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Memoization
 |  |
 | ------- |
@@ -456,6 +458,7 @@
 | [0733-flood-fill](https://github.com/gnaneswar675/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/gnaneswar675/Leetcode/tree/master/0994-rotting-oranges) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gnaneswar675/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gnaneswar675/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Sliding Window
 |  |
 | ------- |
