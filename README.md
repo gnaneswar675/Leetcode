@@ -97,6 +97,7 @@
 | [1422-maximum-score-after-splitting-a-string](https://github.com/gnaneswar675/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/gnaneswar675/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/gnaneswar675/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/gnaneswar675/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [3407-substring-matching-pattern](https://github.com/gnaneswar675/Leetcode/tree/master/3407-substring-matching-pattern) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/gnaneswar675/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Math
@@ -375,6 +376,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/gnaneswar675/Leetcode/tree/master/0258-add-digits) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/gnaneswar675/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gnaneswar675/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2751-robot-collisions](https://github.com/gnaneswar675/Leetcode/tree/master/2751-robot-collisions) |
 ## Queue
