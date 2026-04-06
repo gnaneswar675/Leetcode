@@ -53,6 +53,7 @@
 | [0733-flood-fill](https://github.com/gnaneswar675/Leetcode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/gnaneswar675/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/gnaneswar675/Leetcode/tree/master/0860-lemonade-change) |
+| [0874-walking-robot-simulation](https://github.com/gnaneswar675/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0994-rotting-oranges](https://github.com/gnaneswar675/Leetcode/tree/master/0994-rotting-oranges) |
 | [1652-defuse-the-bomb](https://github.com/gnaneswar675/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gnaneswar675/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -155,6 +156,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/gnaneswar675/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/gnaneswar675/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/gnaneswar675/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0874-walking-robot-simulation](https://github.com/gnaneswar675/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/gnaneswar675/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/gnaneswar675/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -378,6 +380,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/gnaneswar675/Leetcode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/gnaneswar675/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/gnaneswar675/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/gnaneswar675/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gnaneswar675/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2751-robot-collisions](https://github.com/gnaneswar675/Leetcode/tree/master/2751-robot-collisions) |
