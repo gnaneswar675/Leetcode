@@ -62,6 +62,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/gnaneswar675/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2751-robot-collisions](https://github.com/gnaneswar675/Leetcode/tree/master/2751-robot-collisions) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gnaneswar675/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/gnaneswar675/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/gnaneswar675/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Two Pointers
 |  |
@@ -181,6 +182,7 @@
 | [0191-number-of-1-bits](https://github.com/gnaneswar675/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gnaneswar675/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/gnaneswar675/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/gnaneswar675/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -384,6 +386,7 @@
 | [2075-decode-the-slanted-ciphertext](https://github.com/gnaneswar675/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gnaneswar675/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2751-robot-collisions](https://github.com/gnaneswar675/Leetcode/tree/master/2751-robot-collisions) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/gnaneswar675/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Queue
 |  |
 | ------- |
