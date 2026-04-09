@@ -3,8 +3,7 @@ class Solution {
     public int maxWalls(int[] robots, int[] distance, int[] walls) {
         int n = robots.length;
         int[] left = new int[n];
-        int[] right = new int[n];
-        int[] num = new int[n];
+        int[] right = new int[n];        int[] num = new int[n];
         Map<Integer, Integer> robotsToDistance = new HashMap<>();
 
         for (int i = 0; i < n; i++) {
