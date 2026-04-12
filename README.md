@@ -99,6 +99,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/gnaneswar675/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/gnaneswar675/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1143-longest-common-subsequence](https://github.com/gnaneswar675/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/gnaneswar675/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gnaneswar675/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/gnaneswar675/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/gnaneswar675/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -220,6 +221,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/gnaneswar675/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0746-min-cost-climbing-stairs](https://github.com/gnaneswar675/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/gnaneswar675/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/gnaneswar675/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gnaneswar675/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/gnaneswar675/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Memoization
