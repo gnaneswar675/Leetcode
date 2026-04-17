@@ -5,7 +5,6 @@ class Solution {
         
         if (x<0)
         return false;
-
         while (x!=0)
         {
             rem = x%10;
