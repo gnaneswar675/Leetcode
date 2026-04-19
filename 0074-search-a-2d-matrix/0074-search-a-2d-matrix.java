@@ -5,7 +5,7 @@ class Solution {
         int l=0,h=m*n-1;
         while(l<=h)
         {
-            int mid=l+(h-l)/2;
+                int mid=l+(h-l)/2;
             int r=mid/n,c=mid%n;
             int x=matrix[r][c];
             if(x==target){
