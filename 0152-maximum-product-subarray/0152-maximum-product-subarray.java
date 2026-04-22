@@ -7,6 +7,7 @@ class Solution {
                 mx=mn;
                 mn=temp;
             }
+            
             mx=Math.max(nums[i],mx*nums[i]);
             mn=Math.min(nums[i],mn*nums[i]);
             res=Math.max(mn,Math.max(res,mx));
