@@ -2,13 +2,13 @@ import java.util.*;
 
 class Solution {
     public int minimumDistance(int[] nums) {
-        Map<Integer, List<Integer>> mp = new HashMap<>();
+        Map<Integer,  List<Integer>> mp = new HashMap<>();
         int n = nums.length;
 
 
         for (int i = 0; i < n; i++) {
             mp.computeIfAbsent(nums[i], k -> new ArrayList<>()).add(i);
-        }
+        }  
 
         int mini = Integer.MAX_VALUE;
 
