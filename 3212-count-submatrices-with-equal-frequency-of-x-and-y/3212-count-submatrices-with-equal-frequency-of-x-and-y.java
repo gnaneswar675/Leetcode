@@ -2,7 +2,7 @@ class Solution {
     public int numberOfSubmatrices(char[][] grid) {
         int m = grid.length, n = grid[0].length;
         int ans = 0;
-
+  
         int[][] px = new int[m][n];
         int[][] py = new int[m][n];
 
