@@ -397,6 +397,7 @@
 | [0258-add-digits](https://github.com/gnaneswar675/Leetcode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/gnaneswar675/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/gnaneswar675/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [2069-walking-robot-simulation-ii](https://github.com/gnaneswar675/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/gnaneswar675/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gnaneswar675/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2751-robot-collisions](https://github.com/gnaneswar675/Leetcode/tree/master/2751-robot-collisions) |
@@ -432,6 +433,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/gnaneswar675/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/gnaneswar675/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [2069-walking-robot-simulation-ii](https://github.com/gnaneswar675/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 ## Binary Search
 |  |
 | ------- |
