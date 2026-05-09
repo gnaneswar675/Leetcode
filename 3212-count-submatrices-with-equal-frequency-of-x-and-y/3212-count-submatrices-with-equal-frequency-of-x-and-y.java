@@ -3,8 +3,7 @@ class Solution {
         int m = grid.length, n = grid[0].length;
         int ans = 0;
   
-        int[][] px = new int[m][n];
-        int[][] py = new int[m][n];
+        int[][] px = new int[m][n];        int[][] py = new int[m][n];
 
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
