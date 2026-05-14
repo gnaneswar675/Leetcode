@@ -58,6 +58,7 @@
 | [0860-lemonade-change](https://github.com/gnaneswar675/Leetcode/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/gnaneswar675/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0994-rotting-oranges](https://github.com/gnaneswar675/Leetcode/tree/master/0994-rotting-oranges) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/gnaneswar675/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1652-defuse-the-bomb](https://github.com/gnaneswar675/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/gnaneswar675/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gnaneswar675/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -329,6 +330,7 @@
 | [0841-keys-and-rooms](https://github.com/gnaneswar675/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0897-increasing-order-search-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/gnaneswar675/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gnaneswar675/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -361,6 +363,7 @@
 | [0841-keys-and-rooms](https://github.com/gnaneswar675/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/gnaneswar675/Leetcode/tree/master/0994-rotting-oranges) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/gnaneswar675/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gnaneswar675/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -496,6 +499,7 @@
 | [0695-max-area-of-island](https://github.com/gnaneswar675/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/gnaneswar675/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/gnaneswar675/Leetcode/tree/master/0994-rotting-oranges) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/gnaneswar675/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gnaneswar675/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gnaneswar675/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gnaneswar675/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -525,6 +529,7 @@
 | [0547-number-of-provinces](https://github.com/gnaneswar675/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/gnaneswar675/Leetcode/tree/master/0695-max-area-of-island) |
 | [0765-couples-holding-hands](https://github.com/gnaneswar675/Leetcode/tree/master/0765-couples-holding-hands) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/gnaneswar675/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gnaneswar675/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Greedy
 |  |
