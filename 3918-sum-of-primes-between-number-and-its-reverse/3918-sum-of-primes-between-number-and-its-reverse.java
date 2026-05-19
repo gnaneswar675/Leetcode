@@ -3,6 +3,7 @@ class Solution {
         int rv=rev(num);int res=0;
         int l=Math.min(num,rv);
         int r=Math.max(rv,num);
+        
         for(int i=l;i<=r;i++){
             if(prime(i)){
                 res+=i;
