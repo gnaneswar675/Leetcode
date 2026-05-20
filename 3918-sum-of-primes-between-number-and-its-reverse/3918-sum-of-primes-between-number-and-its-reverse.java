@@ -2,6 +2,7 @@ class Solution {
     public int sumOfPrimesInRange(int num) {
         int rv=rev(num);int res=0;
         int l=Math.min(num,rv);
+        
         int r=Math.max(rv,num);
         
         for(int i=l;i<=r;i++){
