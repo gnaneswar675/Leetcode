@@ -5,7 +5,6 @@ class Solution {
         Map<Integer,  List<Integer>> mp = new HashMap<>();
         int n = nums.length;
 
-
         for (int i = 0; i < n; i++) {
             mp.computeIfAbsent(nums[i], k -> new ArrayList<>()).add(i);
         }  
