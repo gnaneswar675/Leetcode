@@ -33,6 +33,7 @@
 | [0137-single-number-ii](https://github.com/gnaneswar675/Leetcode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/gnaneswar675/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gnaneswar675/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/gnaneswar675/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/gnaneswar675/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/gnaneswar675/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/gnaneswar675/Leetcode/tree/master/0200-number-of-islands) |
@@ -170,6 +171,7 @@
 | [0073-set-matrix-zeroes](https://github.com/gnaneswar675/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/gnaneswar675/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/gnaneswar675/Leetcode/tree/master/0133-clone-graph) |
+| [0169-majority-element](https://github.com/gnaneswar675/Leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/gnaneswar675/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/gnaneswar675/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -190,6 +192,7 @@
 | [0049-group-anagrams](https://github.com/gnaneswar675/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/gnaneswar675/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gnaneswar675/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/gnaneswar675/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gnaneswar675/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/gnaneswar675/Leetcode/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/gnaneswar675/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -203,6 +206,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gnaneswar675/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/gnaneswar675/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/gnaneswar675/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/gnaneswar675/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gnaneswar675/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/gnaneswar675/Leetcode/tree/master/0307-range-sum-query-mutable) |
@@ -428,6 +432,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/gnaneswar675/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/gnaneswar675/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/gnaneswar675/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/gnaneswar675/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
