@@ -72,6 +72,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gnaneswar675/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gnaneswar675/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/gnaneswar675/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2126-destroying-asteroids](https://github.com/gnaneswar675/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gnaneswar675/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2347-best-poker-hand](https://github.com/gnaneswar675/Leetcode/tree/master/2347-best-poker-hand) |
 | [2553-separate-the-digits-in-an-array](https://github.com/gnaneswar675/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -203,6 +204,7 @@
 | [0455-assign-cookies](https://github.com/gnaneswar675/Leetcode/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gnaneswar675/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2126-destroying-asteroids](https://github.com/gnaneswar675/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2751-robot-collisions](https://github.com/gnaneswar675/Leetcode/tree/master/2751-robot-collisions) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/gnaneswar675/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Divide and Conquer
@@ -564,6 +566,7 @@
 | [0455-assign-cookies](https://github.com/gnaneswar675/Leetcode/tree/master/0455-assign-cookies) |
 | [0765-couples-holding-hands](https://github.com/gnaneswar675/Leetcode/tree/master/0765-couples-holding-hands) |
 | [0860-lemonade-change](https://github.com/gnaneswar675/Leetcode/tree/master/0860-lemonade-change) |
+| [2126-destroying-asteroids](https://github.com/gnaneswar675/Leetcode/tree/master/2126-destroying-asteroids) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/gnaneswar675/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Combinatorics
 |  |
