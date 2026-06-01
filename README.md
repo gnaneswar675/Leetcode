@@ -66,6 +66,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/gnaneswar675/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/gnaneswar675/Leetcode/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/gnaneswar675/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [0875-koko-eating-bananas](https://github.com/gnaneswar675/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/gnaneswar675/Leetcode/tree/master/0994-rotting-oranges) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/gnaneswar675/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1652-defuse-the-bomb](https://github.com/gnaneswar675/Leetcode/tree/master/1652-defuse-the-bomb) |
@@ -480,6 +481,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gnaneswar675/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gnaneswar675/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/gnaneswar675/Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/gnaneswar675/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/gnaneswar675/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Binary Search Tree
 |  |
