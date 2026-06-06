@@ -138,6 +138,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/gnaneswar675/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/gnaneswar675/Leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/gnaneswar675/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/gnaneswar675/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/gnaneswar675/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/gnaneswar675/Leetcode/tree/master/0070-climbing-stairs) |
@@ -161,6 +162,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/gnaneswar675/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/gnaneswar675/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/gnaneswar675/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/gnaneswar675/Leetcode/tree/master/0509-fibonacci-number) |
 ## Enumeration
