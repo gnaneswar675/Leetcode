@@ -1,25 +1,25 @@
 class Solution {
-    private void perm(int index,int[] nums,List<List<Integer>> res){
-        if(index==nums.length){
-            List <Integer>temp=new ArrayList<>();
-            for(int i=0;i<nums.length;i++){
-                temp.add(nums[i]);
-            }res.add(new ArrayList<>(temp));
+    public static void traverse(int nums[],boolean[] flag,List<Integer> list,List<List<Integer>> res){
+        if(list.size()==nums.length){
+            res.add(new ArrayList<>(list));
+            return;
         }
-        for(int i=index;i<nums.length;i++){
-            swap(i,index,nums);
-            perm(index+1,nums,res);
-            swap(i,index,nums);
+        for(int i=0;i<nums.length;i++){
+            if(!flag[i]){
+                flag[i]=true;
+                list.add(nums[i]);
+                traverse(nums,flag,list,res);
+                flag[i]=false;
+                list.remove(list.size()-1);
+
+            }
         }
-    }
-    void swap(int i,int j,int[] nums){
-        int t=nums[i];
-        nums[i]=nums[j];
-        nums[j]=t;
     }
     public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> res=new ArrayList<>();
-        perm(0,nums,res);
+        List<Integer>list=new ArrayList<>();
+        List<List<Integer>>res=new ArrayList<>();
+        boolean[] flag=new boolean[nums.length];
+        traverse(nums,flag,list,res);
         return res;
     }
 }
