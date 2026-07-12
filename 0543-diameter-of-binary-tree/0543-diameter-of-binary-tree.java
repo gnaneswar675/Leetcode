@@ -16,14 +16,14 @@
 class Solution {
     int res=0;
     public int diameterOfBinaryTree(TreeNode root) {
-        dfs(root);
+        traverse(root);
         return res;
     }
-    public int dfs(TreeNode root){
-        if(root==null)return 0;
-
-        int l=dfs(root.left),r=dfs(root.right);
-        res=Math.max(l+r,res);
-        return 1+Math.max(l,r);
+    public int traverse(TreeNode root){
+        if (root==null)return 0;
+        int l=traverse(root.left);
+        int r=traverse(root.right);
+        res=Math.max(res,l+r);
+        return Math.max(l,r)+1;
     }
 }
