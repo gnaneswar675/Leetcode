@@ -15,12 +15,12 @@
  */
 class Solution {
     public boolean isValidBST(TreeNode root) {
+        if(root==null)return true;
         return traverse(root,Long.MIN_VALUE,Long.MAX_VALUE);
     }
-    public boolean traverse(TreeNode root,long minv,long maxv)
-    {
+    public boolean traverse(TreeNode root,long minn,long maxx){
         if(root==null)return true;
-        if(root.val<=minv || root.val>=maxv)return false;
-        return (traverse(root.left,minv,root.val)&&traverse(root.right,root.val,maxv));
+        if(root.val<=minn || root.val>=maxx)return false;
+        return traverse(root.left,minn,root.val) && traverse(root.right,root.val,maxx);
     }
 }
