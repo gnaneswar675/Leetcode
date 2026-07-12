@@ -362,6 +362,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0897-increasing-order-search-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -439,6 +440,7 @@
 | [0765-couples-holding-hands](https://github.com/gnaneswar675/Leetcode/tree/master/0765-couples-holding-hands) |
 | [0797-all-paths-from-source-to-target](https://github.com/gnaneswar675/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/gnaneswar675/Leetcode/tree/master/0841-keys-and-rooms) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/gnaneswar675/Leetcode/tree/master/0994-rotting-oranges) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/gnaneswar675/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -480,6 +482,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0897-increasing-order-search-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Simulation
 |  |
