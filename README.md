@@ -133,6 +133,7 @@
 | [0125-valid-palindrome](https://github.com/gnaneswar675/Leetcode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/gnaneswar675/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0257-binary-tree-paths](https://github.com/gnaneswar675/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/gnaneswar675/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/gnaneswar675/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/gnaneswar675/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -319,6 +320,7 @@
 | [0079-word-search](https://github.com/gnaneswar675/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/gnaneswar675/Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/gnaneswar675/Leetcode/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/gnaneswar675/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0797-all-paths-from-source-to-target](https://github.com/gnaneswar675/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gnaneswar675/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/gnaneswar675/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -346,6 +348,7 @@
 | [0226-invert-binary-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/gnaneswar675/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/gnaneswar675/Leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0437-path-sum-iii](https://github.com/gnaneswar675/Leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/gnaneswar675/Leetcode/tree/master/0450-delete-node-in-a-bst) |
@@ -385,6 +388,7 @@
 | [0226-invert-binary-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/gnaneswar675/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0417-pacific-atlantic-water-flow](https://github.com/gnaneswar675/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/gnaneswar675/Leetcode/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/gnaneswar675/Leetcode/tree/master/0463-island-perimeter) |
@@ -463,6 +467,7 @@
 | [0226-invert-binary-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/gnaneswar675/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/gnaneswar675/Leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/gnaneswar675/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/gnaneswar675/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
