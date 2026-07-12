@@ -14,25 +14,20 @@
  * }
  */
 class Solution {
-    int res=0;
-    public int pathSum(TreeNode root, int target) {
-        if(root==null){
-            return 0;
-        }
-        helper(root,target,0);
-        pathSum(root.left,target);
-        pathSum(root.right,target);
+            int res=0;
 
+    public int pathSum(TreeNode root, int targetSum) {
+        if(root==null)return 0;
+        traverse(root,targetSum);
+        pathSum(root.left,targetSum);
+        pathSum(root.right,targetSum);
         return res;
     }
-    public void helper(TreeNode root,int target,long cursum){
+    public void traverse(TreeNode root,long target){
         if(root==null)return;
-
-        cursum+=root.val;
-        if(target==cursum){
-            res++;
-        }
-        helper(root.left,target,cursum);
-        helper(root.right,target,cursum);
+        target-=root.val;
+        if(target==0)res++;
+        traverse(root.left,target);
+        traverse(root.right,target);
     }
 }
