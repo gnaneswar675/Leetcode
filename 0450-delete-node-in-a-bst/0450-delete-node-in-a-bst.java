@@ -16,47 +16,42 @@
 class Solution {
     public TreeNode deleteNode(TreeNode root, int key) {
         if(root==null)return null;
-        if(root.val==key){
-            return helper(root);
-        }
+        if(root.val==key)return helperrr(root);
         TreeNode demo=root;
-        while(root!=null)
-        {
+        while(root!=null){
             if(key<root.val){
                 if(root.left!=null && key==root.left.val){
-                    root.left=helper(root.left);
-                }else{
+                    root.left=helperrr(root.left);
+                    break;
+                }
+                else
                     root=root.left;
-                }
-            }else{
-                if(root.right!=null && key==root.right.val){
-                    root.right=helper(root.right);
-                }else{
-                    root=root.right;
-                }
             }
-        }return demo;
-    }
-    public TreeNode helper(TreeNode root){
-        if(root.right==null){
-            return root.left;
+            else{
+                if(root.right!=null && key==root.right.val){
+                    root.right=helperrr(root.right);
+                    break;
+                }
+                else
+                    root=root.right;
+                
+            }
         }
-        else if(root.left==null){
+        return demo;
+    }
+    public TreeNode helperrr(TreeNode root){
+        if(root.right==null)
+            return root.left;
+        if(root.left==null)
             return root.right;
-        }
-        else{
+    
             TreeNode rightchild=root.right;
-            TreeNode lastright=find(root.left);
-            lastright.right=rightchild;
+            TreeNode leftright=finderrr(root.left);
+            leftright.right=rightchild;
             return root.left;
-        }
-
     }
-    public TreeNode find(TreeNode root){
-        if(root.right==null){
-            return root;
-        }
-        return find(root.right);
+    TreeNode finderrr(TreeNode root){
+        if(root.right==null)return root;
+        return finderrr(root.right);
     }
-
 }
