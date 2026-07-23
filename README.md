@@ -92,6 +92,7 @@
 | [2751-robot-collisions](https://github.com/gnaneswar675/Leetcode/tree/master/2751-robot-collisions) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gnaneswar675/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gnaneswar675/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gnaneswar675/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/gnaneswar675/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/gnaneswar675/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/gnaneswar675/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -170,6 +171,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/gnaneswar675/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gnaneswar675/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gnaneswar675/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gnaneswar675/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
