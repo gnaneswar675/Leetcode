@@ -429,6 +429,7 @@
 | [0695-max-area-of-island](https://github.com/gnaneswar675/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/gnaneswar675/Leetcode/tree/master/0733-flood-fill) |
 | [0765-couples-holding-hands](https://github.com/gnaneswar675/Leetcode/tree/master/0765-couples-holding-hands) |
+| [0785-is-graph-bipartite](https://github.com/gnaneswar675/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/gnaneswar675/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/gnaneswar675/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0897-increasing-order-search-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0897-increasing-order-search-tree) |
@@ -465,6 +466,7 @@
 | [0695-max-area-of-island](https://github.com/gnaneswar675/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/gnaneswar675/Leetcode/tree/master/0733-flood-fill) |
 | [0765-couples-holding-hands](https://github.com/gnaneswar675/Leetcode/tree/master/0765-couples-holding-hands) |
+| [0785-is-graph-bipartite](https://github.com/gnaneswar675/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/gnaneswar675/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/gnaneswar675/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -646,6 +648,7 @@
 | [0210-course-schedule-ii](https://github.com/gnaneswar675/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/gnaneswar675/Leetcode/tree/master/0547-number-of-provinces) |
 | [0765-couples-holding-hands](https://github.com/gnaneswar675/Leetcode/tree/master/0765-couples-holding-hands) |
+| [0785-is-graph-bipartite](https://github.com/gnaneswar675/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/gnaneswar675/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/gnaneswar675/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1791-find-center-of-star-graph](https://github.com/gnaneswar675/Leetcode/tree/master/1791-find-center-of-star-graph) |
@@ -659,6 +662,7 @@
 | [0547-number-of-provinces](https://github.com/gnaneswar675/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/gnaneswar675/Leetcode/tree/master/0695-max-area-of-island) |
 | [0765-couples-holding-hands](https://github.com/gnaneswar675/Leetcode/tree/master/0765-couples-holding-hands) |
+| [0785-is-graph-bipartite](https://github.com/gnaneswar675/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/gnaneswar675/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gnaneswar675/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Greedy
