@@ -100,6 +100,7 @@
 | [3668-restore-finishing-order](https://github.com/gnaneswar675/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/gnaneswar675/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/gnaneswar675/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/gnaneswar675/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/gnaneswar675/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
@@ -619,6 +620,7 @@
 | [1422-maximum-score-after-splitting-a-string](https://github.com/gnaneswar675/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gnaneswar675/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gnaneswar675/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3904-smallest-stable-index-ii](https://github.com/gnaneswar675/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
 |  |
 | ------- |
