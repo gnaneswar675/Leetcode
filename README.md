@@ -143,6 +143,7 @@
 | [0127-word-ladder](https://github.com/gnaneswar675/Leetcode/tree/master/0127-word-ladder) |
 | [0171-excel-sheet-column-number](https://github.com/gnaneswar675/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/gnaneswar675/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/gnaneswar675/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/gnaneswar675/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/gnaneswar675/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -241,6 +242,7 @@
 | [0217-contains-duplicate](https://github.com/gnaneswar675/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/gnaneswar675/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/gnaneswar675/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/gnaneswar675/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/gnaneswar675/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/gnaneswar675/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/gnaneswar675/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -268,6 +270,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/gnaneswar675/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/gnaneswar675/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/gnaneswar675/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/gnaneswar675/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/gnaneswar675/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/gnaneswar675/Leetcode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/gnaneswar675/Leetcode/tree/master/0881-boats-to-save-people) |
