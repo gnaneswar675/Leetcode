@@ -147,6 +147,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/gnaneswar675/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/gnaneswar675/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/gnaneswar675/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/gnaneswar675/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/gnaneswar675/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/gnaneswar675/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/gnaneswar675/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -245,6 +246,7 @@
 | [0219-contains-duplicate-ii](https://github.com/gnaneswar675/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/gnaneswar675/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/gnaneswar675/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/gnaneswar675/Leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/gnaneswar675/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/gnaneswar675/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/gnaneswar675/Leetcode/tree/master/0496-next-greater-element-i) |
