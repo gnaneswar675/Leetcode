@@ -154,6 +154,7 @@
 | [0459-repeated-substring-pattern](https://github.com/gnaneswar675/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/gnaneswar675/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/gnaneswar675/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0940-distinct-subsequences-ii](https://github.com/gnaneswar675/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/gnaneswar675/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/gnaneswar675/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gnaneswar675/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -335,6 +336,7 @@
 | [0688-knight-probability-in-chessboard](https://github.com/gnaneswar675/Leetcode/tree/master/0688-knight-probability-in-chessboard) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/gnaneswar675/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0746-min-cost-climbing-stairs](https://github.com/gnaneswar675/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0940-distinct-subsequences-ii](https://github.com/gnaneswar675/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/gnaneswar675/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/gnaneswar675/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/gnaneswar675/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
