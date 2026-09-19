@@ -5,12 +5,10 @@ class Solution {
         HashMap<Integer,Integer>map=new HashMap<>();
         for(int i=0;i<hand.length;i++){
             map.put(hand[i],map.getOrDefault(hand[i],0)+1);
-        }
-        
+        }        
         for(int a:hand){
             if(map.get(a)==0)
-                continue;
-            
+                continue;            
             for(int j=0;j<groupsize;j++){
                 int num=a+j;
                 if(map.getOrDefault(num,0)==0){
@@ -20,6 +18,5 @@ class Solution {
             }
         }
         return true;
-
     }
 }
