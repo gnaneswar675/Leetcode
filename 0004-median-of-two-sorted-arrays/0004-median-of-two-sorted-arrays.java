@@ -5,10 +5,10 @@ class Solution {
             list.add(i);
         }
         for(int i:nums2){
+            
             list.add(i);
         }
-        Collections.sort(list);
-        int n=list.size();
+        Collections.sort(list);        int n=list.size();
         double res;
         if(n%2!=0){
             res=list.get(n/2);
