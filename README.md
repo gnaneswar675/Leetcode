@@ -166,6 +166,7 @@
 | [3407-substring-matching-pattern](https://github.com/gnaneswar675/Leetcode/tree/master/3407-substring-matching-pattern) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/gnaneswar675/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/gnaneswar675/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/gnaneswar675/Leetcode/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Math
 |  |
 | ------- |
@@ -222,6 +223,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/gnaneswar675/Leetcode/tree/master/0204-count-primes) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/gnaneswar675/Leetcode/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Number Theory
 |  |
 | ------- |
@@ -664,6 +666,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/gnaneswar675/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/gnaneswar675/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1652-defuse-the-bomb](https://github.com/gnaneswar675/Leetcode/tree/master/1652-defuse-the-bomb) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/gnaneswar675/Leetcode/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Graph Theory
 |  |
 | ------- |
